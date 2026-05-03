@@ -23,7 +23,7 @@ export default function PRPage() {
         </p>
 
         <div className="mt-12 grid gap-4 md:grid-cols-3">
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
               src="https://www.instagram.com/reel/DUiqCbJgttQ/embed/?cr=1&v=14"
               className="w-full h-full"
@@ -33,7 +33,7 @@ export default function PRPage() {
             />
           </div>
 
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <video
               src="/PR/video-1.mp4"
               controls
@@ -45,7 +45,7 @@ export default function PRPage() {
             />
           </div>
 
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
               src="https://www.instagram.com/reel/DXoMhnWjA7s/embed/?cr=1&v=14"
               className="w-full h-full"

@@ -24,7 +24,7 @@ export default function BrandDevelopingPage() {
         </p>
 
         <div className="mt-12 grid gap-4 md:grid-cols-3">
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <video
               src="/BRAND DEVELOPING/brand-video.mp4"
               controls
@@ -36,7 +36,7 @@ export default function BrandDevelopingPage() {
             />
           </div>
 
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <Image
               src="/BRAND DEVELOPING/image.jpg"
               alt="Brand Developing showcase"
@@ -45,7 +45,7 @@ export default function BrandDevelopingPage() {
             />
           </div>
 
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
               src="https://www.instagram.com/reel/DX1xqADsJw4/embed/?cr=1&v=14"
               className="w-full h-full"

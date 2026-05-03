@@ -24,7 +24,7 @@ export default function PhotographyPage() {
         </p>
 
         <div className="mt-12 grid gap-4 md:grid-cols-3">
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <Image
               src="/PHOTOGRAPHY/SMK03497 (1).jpg.jpeg"
               alt="Photography showcase 1"
@@ -33,7 +33,7 @@ export default function PhotographyPage() {
             />
           </div>
 
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <video
               src="/PHOTOGRAPHY/video-1.mp4"
               controls
@@ -45,7 +45,7 @@ export default function PhotographyPage() {
             />
           </div>
 
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <Image
               src="/PHOTOGRAPHY/SMK05819.JPG.jpeg"
               alt="Photography showcase 2"

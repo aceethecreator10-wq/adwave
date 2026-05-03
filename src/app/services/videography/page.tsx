@@ -23,7 +23,7 @@ export default function VideographyPage() {
         </p>
 
         <div className="mt-12 grid gap-4 md:grid-cols-3">
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <video
               src="/VIDEOGRAPHY/video-1.mp4"
               controls
@@ -34,7 +34,7 @@ export default function VideographyPage() {
               playsInline
             />
           </div>
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <video
               src="/VIDEOGRAPHY/video-2.mp4"
               controls
@@ -45,7 +45,7 @@ export default function VideographyPage() {
               playsInline
             />
           </div>
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <video
               src="/VIDEOGRAPHY/video-3.mp4"
               controls

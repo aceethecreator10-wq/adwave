@@ -23,7 +23,7 @@ export default function UGCPage() {
         </p>
 
         <div className="mt-12 grid gap-4 md:grid-cols-3">
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
               src="https://www.instagram.com/reel/C-VL-3jNP3N/embed/?cr=1&v=14"
               className="w-full h-full"
@@ -32,7 +32,7 @@ export default function UGCPage() {
               scrolling="no"
             />
           </div>
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
               src="https://www.instagram.com/reel/C-XDBGnNh9M/embed/?cr=1&v=14"
               className="w-full h-full"
@@ -41,7 +41,7 @@ export default function UGCPage() {
               scrolling="no"
             />
           </div>
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
               src="https://www.instagram.com/reel/DXHOw4PDKyv/embed/?cr=1&v=14"
               className="w-full h-full"

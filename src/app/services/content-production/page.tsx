@@ -24,7 +24,7 @@ export default function ContentProductionPage() {
         </p>
 
         <div className="mt-12 grid gap-4 md:grid-cols-3">
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <Image
               src="/CONTENT PRODUCTION/IMG_20251213_173515.jpg.jpeg"
               alt="Content Production showcase 1"
@@ -33,7 +33,7 @@ export default function ContentProductionPage() {
             />
           </div>
 
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <video
               src="/CONTENT PRODUCTION/VN20260503_035146.mp4"
               controls
@@ -45,7 +45,7 @@ export default function ContentProductionPage() {
             />
           </div>
 
-          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
+          <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <Image
               src="/CONTENT PRODUCTION/597903427_18566026519016259_5675558665370447498_n.heic.jpg.jpeg"
               alt="Content Production showcase 2"
