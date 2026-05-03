@@ -9,7 +9,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Adwave — let your brand make the shor.",
+  title: "Adwave Agency | Let Your Brand Make The Shor",
   description: "Full-stack content agency for Indian brands",
 };
 
