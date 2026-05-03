@@ -19,7 +19,7 @@ export default function WebDevelopingPage() {
           Web Developing
         </h1>
         <div className="mt-6 space-y-4 text-lg text-midgrey max-w-3xl leading-relaxed">
-          <p>We've expanded into web development as part of our growing digital services.</p>
+          <p>We&apos;ve expanded into web development as part of our growing digital services.</p>
           <p>From landing pages to full-scale websites, we build fast, modern, and conversion-focused experiences.</p>
           <p>Our own website has been designed and developed in-house — reflecting the quality and approach we bring to every project.</p>
         </div>
