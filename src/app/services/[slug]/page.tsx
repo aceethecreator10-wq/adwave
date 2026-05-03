@@ -37,19 +37,7 @@ export default function ServicePage({ params }: PageProps) {
         </h1>
         <p className="mt-4 text-lg text-midgrey max-w-2xl">{service.description}</p>
 
-        <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          <div className="rounded-2xl bg-charcoal aspect-video flex items-center justify-center text-lightgrey">
-            <p className="text-sm">Video placeholder — add your videos here</p>
-          </div>
-          <div className="rounded-2xl bg-charcoal aspect-video flex items-center justify-center text-lightgrey">
-            <p className="text-sm">Video placeholder — add your videos here</p>
-          </div>
-          <div className="rounded-2xl bg-charcoal aspect-video flex items-center justify-center text-lightgrey">
-            <p className="text-sm">Video placeholder — add your videos here</p>
-          </div>
-        </div>
-
-        <div className="mt-16 bg-white rounded-2xl p-8 shadow-sm">
+        <div className="mt-16 bg-white rounded-2xl p-8 shadow-sm max-w-3xl">
           <h2 className="font-heading text-xl font-bold text-charcoal">Why choose Adwave for {service.title}?</h2>
           <p className="mt-4 text-midgrey">
             We bring strategic thinking, creative execution, and measurable results to every {service.title.toLowerCase()} project.
