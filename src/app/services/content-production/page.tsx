@@ -25,11 +25,14 @@ export default function ContentProductionPage() {
 
         <div className="mt-12 grid gap-4 md:grid-cols-3">
           <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
-            <Image
-              src="/CONTENT PRODUCTION/IMG_20251213_173515.jpg.jpeg"
-              alt="Content Production showcase 1"
-              fill
-              className="object-contain"
+            <video
+              src="/BRAND DEVELOPING/brand-video.mp4"
+              controls
+              autoPlay
+              muted
+              loop
+              className="h-full w-full object-contain"
+              playsInline
             />
           </div>
 
