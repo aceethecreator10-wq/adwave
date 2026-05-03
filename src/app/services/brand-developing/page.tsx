@@ -25,14 +25,14 @@ export default function BrandDevelopingPage() {
 
         <div className="mt-12 grid gap-4 md:grid-cols-3">
           <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-charcoal">
-            <iframe
-              src="https://www.instagram.com/reel/DWyiITBtgHQ/embed/?cr=1&v=14"
-              className="w-full h-full"
-              loading="eager"
-              title="Instagram Reel"
-              allow="autoplay; encrypted-media"
-              allowFullScreen
-              scrolling="no"
+            <video
+              src="/BRAND DEVELOPING/brand-video.mp4"
+              controls
+              autoPlay
+              muted
+              loop
+              className="h-full w-full object-contain"
+              playsInline
             />
           </div>
 
