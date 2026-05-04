@@ -26,7 +26,7 @@ export default function SMMPage() {
         <div className="mt-12 grid gap-4 md:grid-cols-3">
           <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
-              src="https://www.instagram.com/reel/DT5NGXbDOlY/embed/?cr=1&v=14"
+              src="https://www.instagram.com/reel/DT5NGXbDOlY/embed/"
               className="w-full h-full"
               allow="autoplay; encrypted-media"
               allowFullScreen
