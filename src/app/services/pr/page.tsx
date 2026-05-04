@@ -25,7 +25,7 @@ export default function PRPage() {
         <div className="mt-12 grid gap-4 md:grid-cols-3">
           <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
-              src="https://www.instagram.com/reel/DUiqCbJgttQ/embed/?cr=1&v=14"
+              src="https://www.instagram.com/reel/DUiqCbJgttQ/embed/"
               className="w-full h-full"
               allow="autoplay; encrypted-media"
               allowFullScreen
@@ -47,7 +47,7 @@ export default function PRPage() {
 
           <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <iframe
-              src="https://www.instagram.com/reel/DXoMhnWjA7s/embed/?cr=1&v=14"
+              src="https://www.instagram.com/reel/DXoMhnWjA7s/embed/"
               className="w-full h-full"
               allow="autoplay; encrypted-media"
               allowFullScreen

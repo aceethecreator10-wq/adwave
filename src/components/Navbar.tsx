@@ -53,7 +53,7 @@ export default function Navbar() {
             ))}
             <a
               href="#contact"
-              className="rounded-full bg-sky px-5 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-90"
+              className="rounded-full bg-ocean px-5 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-90"
             >
               Get Started
             </a>
@@ -85,7 +85,7 @@ export default function Navbar() {
             <a
               href="#contact"
               onClick={() => setMobileOpen(false)}
-              className="rounded-full bg-sky px-5 py-2 text-center text-sm font-semibold text-white"
+              className="rounded-full bg-ocean px-5 py-2 text-center text-sm font-semibold text-white"
             >
               Get Started
             </a>

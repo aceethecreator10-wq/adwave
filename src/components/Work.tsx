@@ -13,7 +13,7 @@ function ReelEmbed({ shortcode }: { shortcode: string }) {
   return (
     <div className="relative w-full overflow-hidden rounded-xl bg-black aspect-[9/16]">
       <iframe
-        src={`https://www.instagram.com/reel/${shortcode}/embed/?cr=1&v=14`}
+        src={`https://www.instagram.com/reel/${shortcode}/embed/`}
         className="absolute inset-0 w-full h-full border-0"
         allow="autoplay; encrypted-media"
         allowFullScreen
