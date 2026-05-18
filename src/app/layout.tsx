@@ -12,21 +12,9 @@ export const metadata: Metadata = {
   title: "Adwave Agency | Let Your Brand Make The Shor",
   description: "Full-stack content solutions for brands that want to dominate in the digital age.",
   icons: {
-    icon: [
-      { url: "/favicon.ico" },
-      { url: "/icon.jpg", type: "image/jpeg", sizes: "512x512" },
-    ],
-    apple: [
-      { url: "/apple-icon.jpg", sizes: "180x180", type: "image/jpeg" },
-    ],
+    icon: [{ url: "/icon.jpg" }, { url: "/favicon.ico" }],
     shortcut: "/favicon.ico",
-  },
-  openGraph: {
-    title: "Adwave Agency | Let Your Brand Make The Shor",
-    description: "Full-stack content solutions for brands that want to dominate in the digital age.",
-    siteName: "Adwave Agency",
-    type: "website",
-    locale: "en_IN",
+    apple: [{ url: "/apple-icon.jpg" }],
   },
 };
 
