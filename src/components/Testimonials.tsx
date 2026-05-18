@@ -19,9 +19,9 @@ const TESTIMONIALS = [
   },
   {
     id: 3,
-    name: "Arjun Desai",
-    company: "TechNova",
-    text: "From UGC to full PR campaigns, Adwave handles everything seamlessly. We've seen a 40% increase in brand awareness.",
+    name: "Priyanka",
+    company: "Mystery Misal",
+    text: "Young blood with great knowledge in the field and always ready to help wherever you're stuck. The response within just a month has been amazing, and the growth the team has achieved is truly commendable.",
     rating: 5,
   },
   {

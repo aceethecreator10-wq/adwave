@@ -36,7 +36,7 @@ export default function VideographyPage() {
           </div>
           <div className="relative aspect-[9/16] w-full overflow-hidden rounded-2xl bg-offwhite">
             <video
-              src="/VIDEOGRAPHY/video-2.mp4"
+              src="/VIDEOGRAPHY/car-reel-revised.mp4"
               controls
               autoPlay
               muted

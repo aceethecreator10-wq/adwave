@@ -11,6 +11,11 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Adwave Agency | Let Your Brand Make The Shor",
   description: "Full-stack content agency for Indian brands",
+  icons: {
+    icon: "/icon.jpg",
+    shortcut: "/icon.jpg",
+    apple: "/icon.jpg",
+  },
   openGraph: {
     title: "Adwave Agency | Let Your Brand Make The Shor",
     description: "Full-stack content agency for Indian brands",
