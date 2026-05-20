@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import Image from "next/image";
 import { NAV_LINKS } from "@/lib/constants";
+import ShareButton from "./ShareButton";
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
@@ -51,6 +52,7 @@ export default function Navbar() {
                 {link.label}
               </a>
             ))}
+            <ShareButton />
             <a
               href="#contact"
               className="rounded-full bg-ocean px-5 py-2 text-sm font-semibold text-white transition-opacity hover:opacity-90"
@@ -82,6 +84,7 @@ export default function Navbar() {
                 {link.label}
               </a>
             ))}
+            <ShareButton />
             <a
               href="#contact"
               onClick={() => setMobileOpen(false)}
